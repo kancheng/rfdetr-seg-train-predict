@@ -1,0 +1,8 @@
+rfdetr
+supervision
+Pillow
+requests
+pytorch-lightning
+pycocotools
+faster-coco-eval
+tensorboard

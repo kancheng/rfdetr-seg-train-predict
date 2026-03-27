@@ -1,0 +1,7 @@
+    path: F:/detr/sdsaliency900/sdsaliency900_dataset/
+    train: ./images/train
+    val: ./images/val
+
+    nc: 1
+    names: ['object']
+    
